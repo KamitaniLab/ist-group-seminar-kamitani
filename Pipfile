@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bdpy = "==0.14rc6"
+h5py = "*"
+hdf5storage = "*"
+ipython = "*"
+jupyter = "*"
+jupyterlab = "*"
+matplotlib = "*"
+nibabel = "*"
+nipy = "*"
+numpy = "*"
+pyyaml = "*"
+scikit-learn = "*"
+scipy = "*"
+tqdm = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
