@@ -35,3 +35,10 @@ Please click `[Google Colab]` to open each notebook on Google Colab.
 
 - [0_env_check.ipynb](0_env_check.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/0_env_check.ipynb)\]
 - [1_mri_images.ipynb](1_mri_images.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/1_mri_images.ipynb)\]
+
+## References
+
+### fMRI
+
+- Huettel et al. ”Functional Magnetic Resonance Imaging (3rd ed.)”. Sinauer, 2014.<br>日本語訳: 『fMRI: 原理と実践』メディカル・サイエンス・インターナショナル, 2016.
+- Coursera: Principles of fMRI 1<br>https://www.coursera.org/learn/functional-mri<br>https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA
