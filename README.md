@@ -45,3 +45,4 @@ Please click `[Google Colab]` to open each notebook on Google Colab.
 - Coursera: Principles of fMRI 1<br>https://www.coursera.org/learn/functional-mri<br>https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA
 - fMRI Bootcamp by Rebecca Saxe<br>https://www.youtube.com/watch?v=yA65FuSpOMs&list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
 - Soares et al. (2016) A Hitchhiker’s Guide to Functional Magnetic Resonance Imaging. Front Neurosci. <https://doi.org/10.3389/fnins.2016.00515>
+- [fMRIPrep: A Robust Preprocessing Pipeline for fMRI Data](https://fmriprep.org/en/stable/index.html)
