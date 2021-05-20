@@ -42,3 +42,4 @@ Please click `[Google Colab]` to open each notebook on Google Colab.
 
 - Huettel et al. ”Functional Magnetic Resonance Imaging (3rd ed.)”. Sinauer, 2014.<br>日本語訳: 『fMRI: 原理と実践』メディカル・サイエンス・インターナショナル, 2016.
 - Coursera: Principles of fMRI 1<br>https://www.coursera.org/learn/functional-mri<br>https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA
+- fMRI Bootcamp by Rebecca Saxe<br>https://www.youtube.com/watch?v=yA65FuSpOMs&list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
