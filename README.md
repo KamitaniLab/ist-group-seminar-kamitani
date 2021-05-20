@@ -35,6 +35,7 @@ Please click `[Google Colab]` to open each notebook on Google Colab.
 
 - [0_env_check.ipynb](0_env_check.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/0_env_check.ipynb)\]
 - [1_mri_images.ipynb](1_mri_images.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/1_mri_images.ipynb)\]
+- [2_glm.ipynb](2_glm.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/2_glm.ipynb)\]
 
 ## References
 
