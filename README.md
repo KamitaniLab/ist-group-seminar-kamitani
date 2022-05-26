@@ -2,7 +2,13 @@
 
 Course materials for IST Group Seminar: Neuroinformatics (Kamitani lab).
 
-## Setup
+## Textbooks and video lectures
+
+See <learning_materials.md>.
+
+## Code
+
+### Setup
 
 You can run the IPython notebooks in your local environment or on Google Colab.
 
@@ -31,20 +37,10 @@ If you are using Pipenv, you can setup the environment with the Pipfile in this 
 You can run the notebooks on Google Colab.
 Please click `[Google Colab]` to open each notebook on Google Colab.
 
-## Notebooks
+### Notebooks
 
 - [0_env_check.ipynb](0_env_check.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/0_env_check.ipynb)\]
 - [1_mri_images.ipynb](1_mri_images.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/1_mri_images.ipynb)\]
 - [2_glm.ipynb](2_glm.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/2_glm.ipynb)\]
 - [3_decoding_classification.ipynb](3_decoding_classification.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/3_decoding_classification.ipynb)\]
 - [Data of the main experiment (ist_seminar_2021_main_data.ipynb)](ist_seminar_2021_main_data.ipynb) \[[Google Colab](https://colab.research.google.com/github/KamitaniLab/ist-group-seminar-kamitani/blob/master/ist_seminar_2021_main_data.ipynb)\]
-
-## References
-
-### fMRI
-
-- Huettel et al. ”Functional Magnetic Resonance Imaging (3rd ed.)”. Sinauer, 2014.<br>日本語訳: 『fMRI: 原理と実践』メディカル・サイエンス・インターナショナル, 2016.
-- Coursera: Principles of fMRI 1<br>https://www.coursera.org/learn/functional-mri<br>https://www.youtube.com/channel/UC_BIby85hZmcItMrkAlc8eA
-- fMRI Bootcamp by Rebecca Saxe<br>https://www.youtube.com/watch?v=yA65FuSpOMs&list=PLyGKBDfnk-iDVpUGSR_GlDmQrZOS0Lk6k
-- Soares et al. (2016) A Hitchhiker’s Guide to Functional Magnetic Resonance Imaging. Front Neurosci. <https://doi.org/10.3389/fnins.2016.00515>
-- [fMRIPrep: A Robust Preprocessing Pipeline for fMRI Data](https://fmriprep.org/en/stable/index.html)
