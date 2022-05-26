@@ -4,7 +4,7 @@ Course materials for IST Group Seminar: Neuroinformatics (Kamitani lab).
 
 ## Textbooks and video lectures
 
-See <learning_materials.md>.
+See [learning_materials.md](./learning_materials.md).
 
 ## Code
 
