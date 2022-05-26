@@ -9,7 +9,7 @@
 
 ## Basics of fMRI
 
-### MRI
+### MRI physics and image formation
 
 - [Principles of fMRI Part 1, Module 5: Basic MR Physics - YouTube](https://www.youtube.com/watch?v=XsDXxgjEJVY)
 - [Principles of fMRI Part 1, Module 6: Image Formation - YouTube](https://www.youtube.com/watch?v=PxqDjhO9FUs)
@@ -22,15 +22,29 @@
 - [Principles of fMRI Part 1, Module 10a: Spatial and temporal resolution - YouTube](https://www.youtube.com/watch?v=tSoirJQCWx0)
 - [Principles of fMRI Part 1, Module 10b: Spatial and Temporal Resolution - YouTube](https://www.youtube.com/watch?v=sC-i1Wi8ocU)
 
+### fMRI terminology and data structure
+
+- [Principles of fMRI Part 1, Module 3: fMRI Data Structure & Terminology - YouTube](https://www.youtube.com/watch?v=OuRdQJMU5ro)
+
 ## Preprocessing of fMRI data
 
 - [Principles of fMRI Part 1, Module 13: Pre-processing I - YouTube](https://www.youtube.com/watch?v=Qc3rRaJWOc4)
 - [Principles of fMRI Part 1, Module 14: Pre-processing II - YouTube](https://www.youtube.com/watch?v=qamRGWSC-6g)
 
+### fMRI Preprocessing Software
+
+Various software are available for fMRI data preprocessing.
+Here I list some popular software.
+
+- [Statistical Parametric Mapping (SPM)](https://www.fil.ion.ucl.ac.uk/spm/)
+    - Classical and widely-used Matlab toolbox for fMRI data preprocessing and analysis
+- [fMRIPrep](https://fmriprep.org/en/stable/)
+    - fMRI data preprocessing software providing highly-automated pipeline with up-to-date preprocessing methods
+
 ## General Linear Model (GLM)
 
 TBA
 
-## Decoding
+## MVPA or Brain Decoding
 
 TBA
