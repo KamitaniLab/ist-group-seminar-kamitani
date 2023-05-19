@@ -4,7 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-bdpy = "==0.14rc6"
+# bdpy = "==0.14rc6"  # this version fixing does not work
+bdpy = "*"
 h5py = "*"
 hdf5storage = "*"
 ipython = "*"
@@ -12,9 +13,10 @@ jupyter = "*"
 jupyterlab = "*"
 matplotlib = "*"
 seaborn = "*"
-nibabel = "*"
-nipy = "*"
-numpy = "*"
+numpy = "< 1.20"  # < 1.20 is required for nipy
+nibabel = "== 3.2"  # == 3.2 is required for nipy
+nilearn = "*"
+# nipy = "*"  # pipenv install does not work for this package
 pyyaml = "*"
 scikit-learn = "*"
 scipy = "*"
